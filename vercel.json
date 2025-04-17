@@ -8,5 +8,5 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
-  "regions": ["sfo1"] // or "iad1" or "arn1"
+  "regions": ["sfo1"] 
 } 
